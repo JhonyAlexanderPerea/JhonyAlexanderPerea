@@ -32,5 +32,4 @@
     <img src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   </p>
 </div>
-<style>
 
