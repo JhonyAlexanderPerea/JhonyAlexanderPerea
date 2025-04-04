@@ -32,11 +32,3 @@
     <img src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   </p>
 </div>
-
-<style>
-@keyframes rotate {
-  0% { transform: translateX(0); }
-  50% { transform: translateX(50px); }
-  100% { transform: translateX(0); }
-}
-</style>
