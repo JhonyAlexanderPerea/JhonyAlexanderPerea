@@ -1,5 +1,5 @@
 <div>
-  <h1>Holaa! Soy Jhony 👋</h1>
+  <h1>Hola! Soy Jhony 👋</h1>
 </div>
 <div>
   <p>Hola mi nombre es Jhony Alexander Perea, tengo 21 años y actualmente me encuentro cursando mi octavo semestre de 
