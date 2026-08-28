@@ -86,7 +86,7 @@ intereses: [ "código limpio", "arquitectura de software", "DJ 🎧", "deporte" 
 <div align="center">
 
 <a href="https://github.com/JhonyAlexanderPerea/proyectoTLF">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JhonyAlexanderPerea&repo=proyectoTLF&theme=onedark&hide_border=true"/>
+  <img src="./assets/cards/proyectotlf.svg"/>
 </a>
 
 </div>
