@@ -28,7 +28,7 @@ enfoque: Desarrollo Backend & Aplicaciones de Escritorio
 intereses: [ "código limpio", "arquitectura de software", "DJ 🎧", "deporte" ]
 ```
 
-- 🔭 Actualmente trabajando en proyectos con **Java, Spring Boot y Angular**
+- 🔭 Actualmente trabajando en proyectos con **Java, Spring Boot y React**
 - 🌱 Aprendiendo sobre **desarollo de aplicaciones para dispositivos móviles**
 - 💬 Pregúntame sobre: Java, Spring Boot, JavaFX, React o bases de datos
 
@@ -99,13 +99,12 @@ intereses: [ "código limpio", "arquitectura de software", "DJ 🎧", "deporte" 
 
 <div align="center">
 
-¿Tienes una oportunidad, una idea o simplemente quieres hablar de código (o de música)? Escríbeme, siempre estoy abierto a nuevos proyectos y retos.
+¿Tienes una oportunidad, una idea o simplemente quieres hablar de código? Escríbeme, siempre estoy abierto a nuevos proyectos y retos.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonyalexanderpereaperea@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhony-alexander-perea-perea/)
 
 <br/>
 
-*Hecho con ❤️ y mucho ☕ por **Jhony Alexander Perea***
 
 </div>
