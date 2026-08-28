@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200" font-family="'Segoe UI', Ubuntu, Sans-Serif">
+  <rect x="0.5" y="0.5" width="339" height="199" rx="6" fill="#282c34" stroke="#000000" stroke-opacity="0.00"/>
+  <text x="20" y="30" font-size="15" font-weight="600" fill="#e4bf7a">Contributions (last year)</text>
+  <line x1="28" y1="45" x2="28" y2="150" stroke="#8eb573"/>
+  <line x1="312" y1="45" x2="312" y2="150" stroke="#8eb573"/>
+  <line x1="24" y1="150" x2="28" y2="150" stroke="#8eb573"/>
+  <text x="22" y="153" font-size="10" fill="#8eb573" text-anchor="end">0</text>
+  <line x1="312" y1="150" x2="316" y2="150" stroke="#8eb573"/>
+  <text x="318" y="153" font-size="10" fill="#8eb573" text-anchor="start">0</text>
+  <line x1="24" y1="133" x2="28" y2="133" stroke="#8eb573"/>
+  <text x="22" y="136" font-size="10" fill="#8eb573" text-anchor="end">10</text>
+  <line x1="312" y1="133" x2="316" y2="133" stroke="#8eb573"/>
+  <text x="318" y="136" font-size="10" fill="#8eb573" text-anchor="start">10</text>
+  <line x1="24" y1="115" x2="28" y2="115" stroke="#8eb573"/>
+  <text x="22" y="118" font-size="10" fill="#8eb573" text-anchor="end">20</text>
+  <line x1="312" y1="115" x2="316" y2="115" stroke="#8eb573"/>
+  <text x="318" y="118" font-size="10" fill="#8eb573" text-anchor="start">20</text>
+  <line x1="24" y1="98" x2="28" y2="98" stroke="#8eb573"/>
+  <text x="22" y="101" font-size="10" fill="#8eb573" text-anchor="end">30</text>
+  <line x1="312" y1="98" x2="316" y2="98" stroke="#8eb573"/>
+  <text x="318" y="101" font-size="10" fill="#8eb573" text-anchor="start">30</text>
+  <line x1="24" y1="80" x2="28" y2="80" stroke="#8eb573"/>
+  <text x="22" y="83" font-size="10" fill="#8eb573" text-anchor="end">40</text>
+  <line x1="312" y1="80" x2="316" y2="80" stroke="#8eb573"/>
+  <text x="318" y="83" font-size="10" fill="#8eb573" text-anchor="start">40</text>
+  <line x1="24" y1="63" x2="28" y2="63" stroke="#8eb573"/>
+  <text x="22" y="66" font-size="10" fill="#8eb573" text-anchor="end">50</text>
+  <line x1="312" y1="63" x2="316" y2="63" stroke="#8eb573"/>
+  <text x="318" y="66" font-size="10" fill="#8eb573" text-anchor="start">50</text>
+  <line x1="24" y1="45" x2="28" y2="45" stroke="#8eb573"/>
+  <text x="22" y="48" font-size="10" fill="#8eb573" text-anchor="end">60</text>
+  <line x1="312" y1="45" x2="316" y2="45" stroke="#8eb573"/>
+  <text x="318" y="48" font-size="10" fill="#8eb573" text-anchor="start">60</text>
+  <line x1="28" y1="150" x2="312" y2="150" stroke="#8eb573"/>
+  <line x1="28" y1="150" x2="28" y2="154" stroke="#8eb573"/>
+  <text x="28" y="166" font-size="10" fill="#8eb573" text-anchor="middle">08/25</text>
+  <line x1="75" y1="150" x2="75" y2="154" stroke="#8eb573"/>
+  <text x="75" y="166" font-size="10" fill="#8eb573" text-anchor="middle">10/25</text>
+  <line x1="122" y1="150" x2="122" y2="154" stroke="#8eb573"/>
+  <text x="122" y="166" font-size="10" fill="#8eb573" text-anchor="middle">12/25</text>
+  <line x1="170" y1="150" x2="170" y2="154" stroke="#8eb573"/>
+  <text x="170" y="166" font-size="10" fill="#8eb573" text-anchor="middle">02/26</text>
+  <line x1="217" y1="150" x2="217" y2="154" stroke="#8eb573"/>
+  <text x="217" y="166" font-size="10" fill="#8eb573" text-anchor="middle">04/26</text>
+  <line x1="264" y1="150" x2="264" y2="154" stroke="#8eb573"/>
+  <text x="264" y="166" font-size="10" fill="#8eb573" text-anchor="middle">06/26</text>
+  <line x1="312" y1="150" x2="312" y2="154" stroke="#8eb573"/>
+  <text x="312" y="166" font-size="10" fill="#8eb573" text-anchor="middle">08/26</text>
+  <path d="M28.00,150.00 C31.94,145.04 43.78,126.96 51.67,120.25 C59.56,113.54 67.44,104.79 75.33,109.75 C83.22,114.71 91.11,143.88 99.00,150.00 C106.89,156.12 114.78,146.50 122.67,146.50 C130.56,146.50 138.44,151.46 146.33,150.00 C154.22,148.54 162.11,141.25 170.00,137.75 C177.89,134.25 185.78,142.71 193.67,129.00 C201.56,115.29 209.44,63.38 217.33,55.50 C225.22,47.62 233.11,66.00 241.00,81.75 C248.89,97.50 256.78,141.83 264.67,150.00 C272.56,158.17 280.44,134.83 288.33,130.75 C296.22,126.67 308.06,126.38 312.00,125.50 L312.00,150.00 L28.00,150.00 Z" fill="#e4bf7a" fill-opacity="0.25" stroke="none"/>
+  <path d="M28.00,150.00 C31.94,145.04 43.78,126.96 51.67,120.25 C59.56,113.54 67.44,104.79 75.33,109.75 C83.22,114.71 91.11,143.88 99.00,150.00 C106.89,156.12 114.78,146.50 122.67,146.50 C130.56,146.50 138.44,151.46 146.33,150.00 C154.22,148.54 162.11,141.25 170.00,137.75 C177.89,134.25 185.78,142.71 193.67,129.00 C201.56,115.29 209.44,63.38 217.33,55.50 C225.22,47.62 233.11,66.00 241.00,81.75 C248.89,97.50 256.78,141.83 264.67,150.00 C272.56,158.17 280.44,134.83 288.33,130.75 C296.22,126.67 308.06,126.38 312.00,125.50" fill="none" stroke="#e4bf7a" stroke-width="2"/>
+  <text x="170" y="184" font-size="11" fill="#8eb573" text-anchor="middle">mm/yy</text>
+</svg>
