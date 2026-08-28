@@ -5,7 +5,6 @@
 <br/>
 
 **Estudiante de 9º semestre de Ingeniería de Sistemas y Computación** en la Universidad del Quindío 🇨🇴
-Buscando oportunidades de **práctica profesional / primer empleo** en desarrollo backend
 
 <br/>
 
