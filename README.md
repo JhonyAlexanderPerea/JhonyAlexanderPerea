@@ -72,12 +72,10 @@ intereses: [ "código limpio", "arquitectura de software", "DJ 🎧", "deporte" 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JhonyAlexanderPerea&show_icons=true&theme=onedark&hide_border=true&count_private=true&locale=es&rank_icon=github" height="165em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonyAlexanderPerea&layout=compact&theme=onedark&hide_border=true&locale=es" height="165em"/>
+<img src="./output/onedark/stats.svg" height="165em"/>
+<img src="./output/onedark/most-commit-language.svg" height="165em"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JhonyAlexanderPerea&theme=onedark&hide_border=true&locale=es&date_format=j%2Fn%5BY%5D" alt="Racha de contribuciones"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=JhonyAlexanderPerea&theme=onedark&row=1&column=6&margin-w=15&no-bg=true&no-frame=true" alt="Trofeos de GitHub"/>
+<img src="./output/onedark/streak.svg" alt="Racha de contribuciones"/>
 
 </div>
 
@@ -90,9 +88,6 @@ intereses: [ "código limpio", "arquitectura de software", "DJ 🎧", "deporte" 
 
 <a href="https://github.com/JhonyAlexanderPerea/proyectoTLF">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JhonyAlexanderPerea&repo=proyectoTLF&theme=onedark&hide_border=true"/>
-</a>
-<a href="https://github.com/JhonyAlexanderPerea/NOMBRE-REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JhonyAlexanderPerea&repo=NOMBRE-REPO-2&theme=onedark&hide_border=true"/>
 </a>
 
 </div>

@@ -1,0 +1,25 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: tiennm99/ghstats@v1
+        with:
+          user: ${{ github.repository_owner }}
+          token: ${{ secrets.GHSTATS_TOKEN }}
+          themes: onedark
+          tz: America/Bogota
+          include_forks: "true"
+          include_private: "true"
+          commit_changes: "true"
+          commit_message: "chore: update ghstats cards"
