@@ -91,8 +91,8 @@ intereses: [ "código limpio", "arquitectura de software", "DJ 🎧", "deporte" 
 <a href="https://github.com/JhonyAlexanderPerea/proyectoTLF">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JhonyAlexanderPerea&repo=proyectoTLF&theme=onedark&hide_border=true"/>
 </a>
-<a href="https://github.com/JhonyAlexanderPerea/viaje-app>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JhonyAlexanderPerea&repo=viaje-app-2&theme=onedark&hide_border=true"/>
+<a href="https://github.com/JhonyAlexanderPerea/NOMBRE-REPO-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JhonyAlexanderPerea&repo=NOMBRE-REPO-2&theme=onedark&hide_border=true"/>
 </a>
 
 </div>
