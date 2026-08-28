@@ -47,6 +47,8 @@ intereses: [ "código limpio", "arquitectura de software", "DJ 🎧", "deporte" 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
 
 **Frameworks y librerías**
 
@@ -83,20 +85,19 @@ intereses: [ "código limpio", "arquitectura de software", "DJ 🎧", "deporte" 
 
 ## 📌 Proyectos Destacados
 
-> ⚠️ **Reemplaza estos 3 placeholders con tus mejores repos reales** — la tarjeta de "pin de tu propio perfil" que tenías antes no muestra ningún proyecto de verdad, y es lo primero que mira un reclutador.
 
 <div align="center">
 
-<a href="https://github.com/JhonyAlexanderPerea/NOMBRE-REPO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JhonyAlexanderPerea&repo=NOMBRE-REPO-1&theme=onedark&hide_border=true"/>
+<a href="https://github.com/JhonyAlexanderPerea/proyectoTLF">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JhonyAlexanderPerea&repo=proyectoTLF&theme=onedark&hide_border=true"/>
 </a>
-<a href="https://github.com/JhonyAlexanderPerea/NOMBRE-REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JhonyAlexanderPerea&repo=NOMBRE-REPO-2&theme=onedark&hide_border=true"/>
+<a href="https://github.com/JhonyAlexanderPerea/viaje-app>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JhonyAlexanderPerea&repo=viaje-app-2&theme=onedark&hide_border=true"/>
 </a>
 
 </div>
 
-**Tip:** en cada repo que quieras destacar, agrégale una descripción corta y un topic en GitHub (Settings → About). Eso hace que la tarjeta se vea completa en vez de "No description, website, or topics provided."
+
 
 <br/>
 
