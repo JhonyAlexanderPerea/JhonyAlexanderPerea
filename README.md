@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=900&color=F89820&center=true&vCenter=true&width=650&height=60&lines=Hola%2C+soy+Jhony+%F0%9F%91%8B;Estudiante+de+Ing.+de+Sistemas;Backend+Dev+%7C+Java+%26+Spring+Boot;Apasionado+por+el+c%C3%B3digo+y+la+m%C3%BAsica" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=900&color=F89820&center=true&vCenter=true&width=650&height=60&lines=Hola%2C+soy+Jhony;Estudiante+de+Ing.+de+Sistemas;Backend+Dev+%7C+Java+%26+Spring+Boot;Apasionado+por+el+c%C3%B3digo+y+la+m%C3%BAsica" alt="Typing SVG" />
 
 <br/>
 
@@ -28,12 +28,10 @@ universidad: Universidad del Quindío
 enfoque: Desarrollo Backend & Aplicaciones de Escritorio
 buscando: Práctica profesional / Oportunidad laboral junior
 intereses: [ "código limpio", "arquitectura de software", "DJ 🎧", "deporte" ]
-frase: "La constancia convierte lo imposible en inevitable"
 ```
 
 - 🔭 Actualmente trabajando en proyectos con **Java, Spring Boot y Angular**
 - 🌱 Aprendiendo sobre **arquitectura de microservicios** y buenas prácticas de backend
-- 🎯 Meta 2026: conseguir mi primera práctica/empleo como desarrollador
 - 🎧 Fuera del código, doy mis pinitos como DJ — la música y la programación tienen más en común de lo que parece
 - 💬 Pregúntame sobre: Java, Spring Boot, JavaFX, Angular o bases de datos
 
