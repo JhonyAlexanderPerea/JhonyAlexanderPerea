@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Jhony%20Alexander%20Perea&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FullStack%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20React&descAlignY=55&descSize=18&fontAlign=50" alt="Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Jhony%20Alexander%20Perea&fontSize=42&fontColor=ffffff&animation=scaleIn&fontAlignY=35&desc=FullStack%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20React&descAlignY=55&descSize=18&fontAlign=50" alt="Banner"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=650&height=50&lines=Hola+%F0%9F%91%8B+soy+Jhony;Estudiante+de+Ing.+Sistemas;FullStack+Dev;Java+%7C+SpringBoot;JavaScript+%7C+React)](https://git.io/typing-svg)
 
