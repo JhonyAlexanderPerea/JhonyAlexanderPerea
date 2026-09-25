@@ -12,11 +12,8 @@ Universidad del Quindío 🇨🇴
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhony-alexander-perea-perea/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JhonyAlexanderPerea)
 
+[![J4PP profile views](https://u8views.com/api/v1/github/profiles/106632266/views/day-week-month-total-count.svg)](https://u8views.com/github/JhonyAlexanderPerea)
 
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JhonyAlexanderPerea&theme=react-dark&area=true&hide_border=true" alt="Gráfico de actividad de Jhony" width="100%" />
-</div>
 
 <br><br>
 
