@@ -91,7 +91,7 @@ intereses: [ "código limpio", "arquitectura de software", "DJ 🎧", "deporte" 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JhonyAlexanderPerea&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1&column=7" alt="Trofeos de GitHub"/>
+<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=JhonyAlexanderPerea&theme=algolia&column=3&margin-w=15&margin-h=15&no-bg=true" alt="Trofeos de GitHub"/>
 
 </div>
 
@@ -100,59 +100,7 @@ intereses: [ "código limpio", "arquitectura de software", "DJ 🎧", "deporte" 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-
-<table>
-  <tr>
-    <td><a href="./output/tokyonight/streak.svg"><img src="./output/tokyonight/streak.svg" width="380" alt="Racha de contribuciones"/></a></td>
-    <td><a href="./output/tokyonight/stats.svg"><img src="./output/tokyonight/stats.svg" width="380" alt="Estadísticas generales"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="./output/tokyonight/most-commit-language.svg"><img src="./output/tokyonight/most-commit-language.svg" width="380" alt="Lenguajes con más commits"/></a></td>
-    <td><a href="./output/tokyonight/profile-details.svg"><img src="./output/tokyonight/profile-details.svg" width="380" alt="Detalles del perfil"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="./output/tokyonight/top-starred-repos.svg"><img src="./output/tokyonight/top-starred-repos.svg" width="380" alt="Repositorios con más estrellas"/></a></td>
-    <td><a href="./output/tokyonight/repos-per-language.svg"><img src="./output/tokyonight/repos-per-language.svg" width="380" alt="Repositorios por lenguaje"/></a></td>
-  </tr>
-</table>
-
-<br>
-
-<a href="https://github.com/JhonyAlexanderPerea">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JhonyAlexanderPerea&theme=tokyo-night&hide_border=true&area=true&custom_title=Actividad%20de%20contribuciones" alt="Gráfico de actividad"/>
-</a>
-
-<br><br>
-
-<details>
-<summary><b>📈 Ver estadísticas detalladas (histórico, hábitos y récords)</b></summary>
-<br>
-
-<table>
-  <tr>
-    <td><img src="./output/tokyonight/contributions.svg" width="380" alt="Contribuciones"/></td>
-    <td><img src="./output/tokyonight/contributions-all-time.svg" width="380" alt="Contribuciones históricas"/></td>
-  </tr>
-  <tr>
-    <td><img src="./output/tokyonight/contributions-by-year.svg" width="380" alt="Contribuciones por año"/></td>
-    <td><img src="./output/tokyonight/contributions-heatmap.svg" width="380" alt="Mapa de calor de contribuciones"/></td>
-  </tr>
-  <tr>
-    <td><img src="./output/tokyonight/productive-time.svg" width="380" alt="Horario más productivo"/></td>
-    <td><img src="./output/tokyonight/productive-time-all-time.svg" width="380" alt="Horario más productivo histórico"/></td>
-  </tr>
-  <tr>
-    <td><img src="./output/tokyonight/productive-weekday.svg" width="380" alt="Día más productivo"/></td>
-    <td><img src="./output/tokyonight/productive-weekday-all-time.svg" width="380" alt="Día más productivo histórico"/></td>
-  </tr>
-  <tr>
-    <td><img src="./output/tokyonight/most-commit-language-all-time.svg" width="380" alt="Lenguajes con más commits (histórico)"/></td>
-    <td><img src="./output/tokyonight/records.svg" width="380" alt="Récords personales"/></td>
-  </tr>
-</table>
-
-</details>
-
+  <img src="https://ghstats.dev/api/card?username=JhonyAlexanderPerea&theme=tokyonight" alt="GitHub Stats Card" />
 </div>
 
 <br>
@@ -171,7 +119,7 @@ intereses: [ "código limpio", "arquitectura de software", "DJ 🎧", "deporte" 
 
 <br>
 
-## 🐍 Animación de contribuciones
+## Contribuciones
 
 <div align="center">
 
