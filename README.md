@@ -12,12 +12,13 @@ Universidad del Quindío 🇨🇴
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhony-alexander-perea-perea/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JhonyAlexanderPerea)
 
-<img src="https://count.getloli.com/@JhonyAlexanderPerea?name=JhonyAlexanderPerea&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Contador de visitas"/>
+[![J4PP profile views](https://u8views.com/api/v1/github/profiles/106632266/views/day-week-month-total-count.svg)](https://u8views.com/github/JhonyAlexanderPerea)
 
 <br><br>
 
 <a href="https://github.com/JhonyAlexanderPerea">
-  <img src="https://socialify.git.ci/JhonyAlexanderPerea/JhonyAlexanderPerea/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Portada del perfil" width="700"/>
+  <img src="https://socialify.git.ci/JhonyAlexanderPerea/JhonyAlexanderPerea/image?font=Bitter&name=1&owner=1&pattern=Circuit+Board&theme=Dark" alt="Portada del perfil" width="700"/>
+  
 </a>
 
 </div>
@@ -155,14 +156,14 @@ intereses: [ "código limpio", "arquitectura de software", "DJ 🎧", "deporte" 
 
 <br>
 
-## 🧊 Contribuciones en 3D
+## 🧊 Contribuciones
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-day-view.svg" />
-  <img alt="Grid de contribuciones en 3D" src="./profile-3d-contrib/profile-night-view.svg" width="700"/>
+  <img alt="Grid de contribuciones en 3D" src="./profile-3d-contrib/profile-night-green.svg" width="700"/>
 </picture>
 
 </div>
