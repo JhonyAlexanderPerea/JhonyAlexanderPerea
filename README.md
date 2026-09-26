@@ -48,6 +48,13 @@ intereses: [ "código limpio", "arquitectura de software", "DJ 🎧", "deporte" 
 
 </div>
 
+<div align="center">
+  
+  [🌐 Visita mi Portafolio Web](https://jhonyalexanderperea.github.io/portfolio/)
+  
+</div>
+
+
 <br>
 
 ## 🛠️ Stack tecnológico
