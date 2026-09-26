@@ -8,9 +8,6 @@
 
 Universidad del Quindío 🇨🇴
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonyalexanderpereaperea@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhony-alexander-perea-perea/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JhonyAlexanderPerea)
 
 [![J4PP profile views](https://u8views.com/api/v1/github/profiles/106632266/views/day-week-month-total-count.svg)](https://u8views.com/github/JhonyAlexanderPerea)
 
@@ -160,6 +157,8 @@ intereses: [ "código limpio", "arquitectura de software", "DJ 🎧", "deporte" 
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonyalexanderpereaperea@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhony-alexander-perea-perea/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/tu_usuario](https://www.instagram.com/jhonyalexander_perea/))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JhonyAlexanderPerea)
 
 </div>
 
