@@ -109,7 +109,7 @@ intereses: [ "código limpio", "arquitectura de software", "DJ 🎧", "deporte" 
 
 <br>
 
-## 🧊 Contribuciones
+## Contribuciones
 
 <div align="center">
 
@@ -122,8 +122,6 @@ intereses: [ "código limpio", "arquitectura de software", "DJ 🎧", "deporte" 
 </div>
 
 <br>
-
-## Contribuciones
 
 <div align="center">
 
