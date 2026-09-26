@@ -46,9 +46,9 @@ intereses: [ "código limpio", "arquitectura de software", "DJ 🎧", "deporte" 
 </div>
 
 <div align="center">
-  
-  [🌐 Visita mi Portafolio Web](https://jhonyalexanderperea.github.io/portfolio/)
-  
+  <h2>
+    <a href="https://jhonyalexanderperea.github.io/portfolio/">🌐 Visita mi Portafolio Web</a>
+  </h2>
 </div>
 
 
