@@ -58,9 +58,7 @@ intereses: [ "código limpio", "arquitectura de software", "DJ 🎧", "deporte" 
 
 <div align="center">
 
-**Lenguajes**
-
-<br>
+## **Lenguajes**
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -70,7 +68,7 @@ intereses: [ "código limpio", "arquitectura de software", "DJ 🎧", "deporte" 
 
 <br>
 
-**Frameworks y librerías**
+## **Frameworks y librerías**
 
 <br>
 
@@ -82,7 +80,7 @@ intereses: [ "código limpio", "arquitectura de software", "DJ 🎧", "deporte" 
 
 <br>
 
-**Bases de datos, herramientas e infraestructura**
+## **Bases de datos, herramientas e infraestructura**
 
 <p align="center">
   <a href="https://skillicons.dev">
