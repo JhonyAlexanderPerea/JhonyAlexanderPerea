@@ -12,7 +12,8 @@ jobs:
   cards:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v4
+
       - uses: tiennm99/ghstats@v1
         with:
           user: ${{ github.repository_owner }}
