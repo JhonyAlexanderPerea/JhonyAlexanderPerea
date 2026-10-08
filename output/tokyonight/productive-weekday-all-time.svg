@@ -21,11 +21,11 @@
   <text x="95.43" y="169" font-size="10" fill="#bf91f3" text-anchor="middle">Mon</text>
   <rect x="119.57" y="104.40" width="36.29" height="50.60" rx="2" fill="#745b97"><title>Tue — 46 commits</title></rect>
   <text x="137.71" y="169" font-size="10" fill="#bf91f3" text-anchor="middle">Tue</text>
-  <rect x="161.86" y="72.50" width="36.29" height="82.50" rx="2" fill="#745b97"><title>Wed — 75 commits</title></rect>
+  <rect x="161.86" y="71.40" width="36.29" height="83.60" rx="2" fill="#745b97"><title>Wed — 76 commits</title></rect>
   <text x="180.00" y="169" font-size="10" fill="#bf91f3" text-anchor="middle">Wed</text>
-  <rect x="204.14" y="103.30" width="36.29" height="51.70" rx="2" fill="#745b97"><title>Thu — 47 commits</title></rect>
+  <rect x="204.14" y="107.70" width="36.29" height="47.30" rx="2" fill="#745b97"><title>Thu — 43 commits</title></rect>
   <text x="222.29" y="169" font-size="10" fill="#bf91f3" text-anchor="middle">Thu</text>
-  <rect x="246.43" y="76.90" width="36.29" height="78.10" rx="2" fill="#745b97"><title>Fri — 71 commits</title></rect>
+  <rect x="246.43" y="80.20" width="36.29" height="74.80" rx="2" fill="#745b97"><title>Fri — 68 commits</title></rect>
   <text x="264.57" y="169" font-size="10" fill="#bf91f3" text-anchor="middle">Fri</text>
   <rect x="288.71" y="67.00" width="36.29" height="88.00" rx="2" fill="#745b97"><title>Sat — 80 commits</title></rect>
   <text x="306.86" y="169" font-size="10" fill="#bf91f3" text-anchor="middle">Sat</text>
