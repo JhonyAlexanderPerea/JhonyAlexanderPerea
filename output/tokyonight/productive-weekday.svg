@@ -23,7 +23,7 @@
   <text x="137.71" y="169" font-size="10" fill="#bf91f3" text-anchor="middle">Tue</text>
   <rect x="161.86" y="84.60" width="36.29" height="70.40" rx="2" fill="#745b97"><title>Wed — 32 commits</title></rect>
   <text x="180.00" y="169" font-size="10" fill="#bf91f3" text-anchor="middle">Wed</text>
-  <rect x="204.14" y="124.20" width="36.29" height="30.80" rx="2" fill="#745b97"><title>Thu — 14 commits</title></rect>
+  <rect x="204.14" y="126.40" width="36.29" height="28.60" rx="2" fill="#745b97"><title>Thu — 13 commits</title></rect>
   <text x="222.29" y="169" font-size="10" fill="#bf91f3" text-anchor="middle">Thu</text>
   <rect x="246.43" y="49.40" width="36.29" height="105.60" rx="2" fill="#bf91f3"><title>Fri — 48 commits</title></rect>
   <text x="264.57" y="169" font-size="10" fill="#bf91f3" text-anchor="middle">Fri</text>
