@@ -2,37 +2,37 @@
   <rect x="0.5" y="0.5" width="339" height="199" rx="6" fill="#1a1b27" stroke="#1a1b27" stroke-opacity="1.00"/>
   <text x="20" y="30" font-size="15" font-weight="600" fill="#70a5fd">Contributions (all time)</text>
   <line x1="28" y1="45" x2="28" y2="150" stroke="#bf91f3"/>
-  <line x1="312" y1="45" x2="312" y2="150" stroke="#bf91f3"/>
   <line x1="24" y1="150" x2="28" y2="150" stroke="#bf91f3"/>
   <text x="22" y="153" font-size="10" fill="#bf91f3" text-anchor="end">0</text>
-  <line x1="312" y1="150" x2="316" y2="150" stroke="#bf91f3"/>
-  <text x="318" y="153" font-size="10" fill="#bf91f3" text-anchor="start">0</text>
   <line x1="24" y1="135" x2="28" y2="135" stroke="#bf91f3"/>
   <text x="22" y="138" font-size="10" fill="#bf91f3" text-anchor="end">10</text>
-  <line x1="312" y1="135" x2="316" y2="135" stroke="#bf91f3"/>
-  <text x="318" y="138" font-size="10" fill="#bf91f3" text-anchor="start">10</text>
   <line x1="24" y1="120" x2="28" y2="120" stroke="#bf91f3"/>
   <text x="22" y="123" font-size="10" fill="#bf91f3" text-anchor="end">20</text>
-  <line x1="312" y1="120" x2="316" y2="120" stroke="#bf91f3"/>
-  <text x="318" y="123" font-size="10" fill="#bf91f3" text-anchor="start">20</text>
   <line x1="24" y1="105" x2="28" y2="105" stroke="#bf91f3"/>
   <text x="22" y="108" font-size="10" fill="#bf91f3" text-anchor="end">30</text>
-  <line x1="312" y1="105" x2="316" y2="105" stroke="#bf91f3"/>
-  <text x="318" y="108" font-size="10" fill="#bf91f3" text-anchor="start">30</text>
   <line x1="24" y1="90" x2="28" y2="90" stroke="#bf91f3"/>
   <text x="22" y="93" font-size="10" fill="#bf91f3" text-anchor="end">40</text>
-  <line x1="312" y1="90" x2="316" y2="90" stroke="#bf91f3"/>
-  <text x="318" y="93" font-size="10" fill="#bf91f3" text-anchor="start">40</text>
   <line x1="24" y1="75" x2="28" y2="75" stroke="#bf91f3"/>
   <text x="22" y="78" font-size="10" fill="#bf91f3" text-anchor="end">50</text>
-  <line x1="312" y1="75" x2="316" y2="75" stroke="#bf91f3"/>
-  <text x="318" y="78" font-size="10" fill="#bf91f3" text-anchor="start">50</text>
   <line x1="24" y1="60" x2="28" y2="60" stroke="#bf91f3"/>
   <text x="22" y="63" font-size="10" fill="#bf91f3" text-anchor="end">60</text>
-  <line x1="312" y1="60" x2="316" y2="60" stroke="#bf91f3"/>
-  <text x="318" y="63" font-size="10" fill="#bf91f3" text-anchor="start">60</text>
   <line x1="24" y1="45" x2="28" y2="45" stroke="#bf91f3"/>
   <text x="22" y="48" font-size="10" fill="#bf91f3" text-anchor="end">70</text>
+  <line x1="312" y1="45" x2="312" y2="150" stroke="#bf91f3"/>
+  <line x1="312" y1="150" x2="316" y2="150" stroke="#bf91f3"/>
+  <text x="318" y="153" font-size="10" fill="#bf91f3" text-anchor="start">0</text>
+  <line x1="312" y1="135" x2="316" y2="135" stroke="#bf91f3"/>
+  <text x="318" y="138" font-size="10" fill="#bf91f3" text-anchor="start">10</text>
+  <line x1="312" y1="120" x2="316" y2="120" stroke="#bf91f3"/>
+  <text x="318" y="123" font-size="10" fill="#bf91f3" text-anchor="start">20</text>
+  <line x1="312" y1="105" x2="316" y2="105" stroke="#bf91f3"/>
+  <text x="318" y="108" font-size="10" fill="#bf91f3" text-anchor="start">30</text>
+  <line x1="312" y1="90" x2="316" y2="90" stroke="#bf91f3"/>
+  <text x="318" y="93" font-size="10" fill="#bf91f3" text-anchor="start">40</text>
+  <line x1="312" y1="75" x2="316" y2="75" stroke="#bf91f3"/>
+  <text x="318" y="78" font-size="10" fill="#bf91f3" text-anchor="start">50</text>
+  <line x1="312" y1="60" x2="316" y2="60" stroke="#bf91f3"/>
+  <text x="318" y="63" font-size="10" fill="#bf91f3" text-anchor="start">60</text>
   <line x1="312" y1="45" x2="316" y2="45" stroke="#bf91f3"/>
   <text x="318" y="48" font-size="10" fill="#bf91f3" text-anchor="start">70</text>
   <line x1="28" y1="150" x2="312" y2="150" stroke="#bf91f3"/>
